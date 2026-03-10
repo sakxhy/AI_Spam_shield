@@ -2,8 +2,7 @@
 
 A modern, high-performance web application powered by Natural Language Processing (NLP) that accurately detects and flags SPAM SMS messages.
 
-![AI Spam Shield Interface](https://via.placeholder.com/800x400.png?text=AI+Spam+Shield+UI)  
-*(Add a screenshot of your web interface here!)*
+![Spam Detected UI](utils/detected_spam.png)
 
 ## 🌟 Features
 - **High Accuracy NLP Engine**: Utilizes an optimized Multinomial Naive Bayes model generating ~98% predictive accuracy.
