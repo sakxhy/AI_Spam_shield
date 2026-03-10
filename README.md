@@ -22,8 +22,8 @@ A modern, high-performance web application powered by Natural Language Processin
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/Spam_detection_project.git
-cd Spam_detection_project
+git clone https://github.com/sakxhy/AI_Spam_shield.git
+cd AI_Spam_shield
 ```
 
 ### 2. Set Up the Virtual Environment
